@@ -133,6 +133,8 @@ An **Entity Relationship Diagram (ERD)** is a visual representation of data and 
 - Diamond shape
 - Lines connecting entities with cardinality notation
 
+![](https://images.wondershare.com/edrawmax/templates/er-diagram-for-university-management.png)
+
 ### ERD Design Process
 
 #### Step 1: Identify Entities
